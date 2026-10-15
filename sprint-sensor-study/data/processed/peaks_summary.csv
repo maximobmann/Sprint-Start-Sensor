@@ -1,0 +1,2 @@
+file,samples,duration_s,sample_rate_hz,dropped_gaps,clipped_samples,peaks_found,peak_1,peak_2,peak_3,peak_4,peak_5,top3_mean,max_peak
+2026-08-01_pilot.csv,78977,789.1,100.0,17,13,5,74.96,95.21,91.55,96.66,81.75,94.48,96.66
